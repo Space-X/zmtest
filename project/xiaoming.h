@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface xiaoming : NSObject
 
+- (void)printSomething;
+
 @end
 
 NS_ASSUME_NONNULL_END

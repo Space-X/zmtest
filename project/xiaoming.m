@@ -10,4 +10,9 @@
 
 @implementation xiaoming
 
+- (void)printSomething{
+    NSLog(@"ppp  ---  asdfkjhasijkldgailjs");
+    
+}
+
 @end
