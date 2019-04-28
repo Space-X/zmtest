@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "zmtest"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "A short asxasdssa dasdadasdasdassd sawasdsescription of zmtest."
 
   # This description is used to generate tags and improve search results.
