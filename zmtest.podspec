@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "zmtest"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "A short asxasdssa dasdadasdasdassd sawasdsescription of zmtest."
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,12 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
 
-  这只是一个建立pod仓库的简单demo，并没有实际的意思。教学使用。
+  这只是一个建立pod仓库的简单demo，并没有实际的意思。教学使用。asdasdasdasdasdasdasd
+  aksdhuaoklsdfha
+  lashiflashfoali;d
+  asdasdasdasdf
+  asdfa
+
                    
                    DESC
 
@@ -70,7 +75,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
 
   #  When using multiple platforms
-  # s.ios.deployment_target = "5.0"
+  s.ios.deployment_target = "12.1"
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
